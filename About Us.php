@@ -57,7 +57,7 @@ transition: border-bottom 0.2s;
 <img src="logo2.png" alt="logo" class="logo">
 
 <ul class="main-nav">
- <li><i class="fa fa-home" style="width:20px;"></i><a href="frontend.php"> Home</a></li>   
+ <li><i class="fa fa-home" style="width:20px;"></i><a href="index.php"> Home</a></li>   
  <li><a href="contact us.php">contact us</a></li>   
  <li><a href="About Us.php">About Us</a></li>  
  <li><a href="registration_form.php">Sign up</a></li>  
